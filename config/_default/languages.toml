@@ -1,5 +1,4 @@
-[languages]
-  [languages.en]
+  [en]
     languageName = "English"
     title = "Laurens Wijnsma"
     subtitle = "A simple, retro theme for Hugo"
@@ -12,6 +11,6 @@
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
 
-    [languages.en.params.logo]
+    [en.params.logo]
       logoText = "Tweaker33"
       logoHomeLink = "/"
