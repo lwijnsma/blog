@@ -1,4 +1,6 @@
-[languages.en.menu]
+[[languages]]
+  [[languages.en]]
+    [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
