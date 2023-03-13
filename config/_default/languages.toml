@@ -1,0 +1,17 @@
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Laurens Wijnsma"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = "Laurens Wijnsma"
+    keywords = ""
+    copyright = "© 2023 Laurens Wijnsma"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Tweaker33"
+      logoHomeLink = "/"

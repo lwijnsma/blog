@@ -1,0 +1,5 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My Tech Blog'
+theme = "terminal"
+paginate = 5

@@ -1,0 +1,16 @@
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+  enableGitInfo = true
+  showLastUpdated = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "LaurensWijnsma"
+  site = "https://blog.lwijnsma.nl"
